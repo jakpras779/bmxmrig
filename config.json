@@ -60,7 +60,7 @@
             "user": "YOUR_WALLET_ADDRESS",
             "pass": "x",
             "rig-id": null,
-            "nicehash": false,
+            "nicehash": true,
             "keepalive": false,
             "enabled": true,
             "tls": false,
